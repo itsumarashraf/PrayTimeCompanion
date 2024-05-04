@@ -42,6 +42,3 @@ testem.log
 Thumbs.db
 
 /.vscode
-
-/src/app/timing
-/src/app/prayer
